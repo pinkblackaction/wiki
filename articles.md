@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=lpzVc7s-_e8
 https://www.youtube.com/watch?v=hH-wCe5oAv8
 
 
-## Anti-Capitalist/Corporate/Proprietary
+### Anti-Capitalist/Corporate/Proprietary
 https://stallman.org/amazon.html
 https://spyware.neocities.org/articles/discord.html
 
